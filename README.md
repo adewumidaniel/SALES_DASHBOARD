@@ -37,5 +37,11 @@ EDA invloved exploring the sales data to answer key question such as:
 Include some interesting formal worked with
 
 ``` Excel
+=TEXT(F2,"mmmm")
+=TEXT(F2,"ddd")
+```
+
+### Results/Findings
+
 
 
