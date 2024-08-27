@@ -2,7 +2,13 @@
 
 ### Project Overview
 
-Analyze sales data to identify trends, top-selling products, and revenue metrics to aimed at extracting valuable insights to enhance strategic decision-making and business decision-making
+Analyze sales data to identify trends, top-selling products, and revenue metrics to aimed at extracting valuable insights to enhance strategic decision-making and business decision-making.
+
+<img width="809" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/2b1e9b7c-d37a-474b-8f99-b7dd738e1401">
+
+
+
+
 
 ### Data Sources
 
